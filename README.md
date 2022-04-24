@@ -1,7 +1,7 @@
 <h1 align="center">Random Password Generator🛠</h1>
 
 <p align="center">
-<img src="headerImage.png" width="1000" height="350">
+<img src="./images/header.jpg" width="1000" height="350">
 </p> 
 <br>
 <div align="center">
@@ -24,7 +24,7 @@
     <li><a href="">Features of our project</a></li>
     <li><a href="">Tech Stacks</a></li>
     <li><a href="">Work Flow</a></li>
-    <li><a href="">UI/UX of our website</a></li>
+    <li><a href="">First look of our website</a></li>
     <li><a href="">Team Members</a></li>
     <li><a href="">Connect with team members</a></li>
     <li><a href="">Acknowledgments</a></li>
@@ -59,7 +59,9 @@
 <br>
 
 ## UI/UX OF OUR WEBSITE:🎨
- NOTE: we will be adding soon.
+<p align="center">
+<img src="./images/front.jpg" width="1000" height="350">
+</p> 
 
 ## TEAM MEMBERS ✍
 1. Ankan Das
