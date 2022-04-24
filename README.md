@@ -1,7 +1,7 @@
 <h1 align="center">Random Password Generator🛠</h1>
 
 <p align="center">
-<img src="./images_readme/header.jpg" width="1000" height="350">
+<img src="./images_header/header.jpg" width="1000" height="350">
 </p> 
 <br>
 <div align="center">
@@ -61,7 +61,7 @@
 
 ## Front Page OF OUR WEBSITE:🎨
 <p align="">
-<img src="./images_readme/front.JPG" width="900" height="500">
+<img src="./images_header/front.JPG" width="900" height="500">
 </p> 
 
 ## TEAM MEMBERS ✍
