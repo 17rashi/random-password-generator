@@ -1,7 +1,7 @@
 <h1 align="center">Random Password Generator🛠</h1>
 
 <p align="center">
-<img src="./images/header.jpg" width="1000" height="350">
+<img src="./images_readme/header.jpg" width="1000" height="350">
 </p> 
 <br>
 <div align="center">
@@ -34,17 +34,18 @@
 # PROBLEM STATEMENT 💡
 
 
-#### 
+
 
 ## FEATURES OF OUR PROJECT (different sections):👇
-
-- 
+- Generate strong passwords
+- Save passwords along with website name
+- Check Strength
 
 ## TECH STACKS 🛒
-1. HTML
-2. CSS
-3. JavaScript
-4. React
+1. React
+2. HTML
+3. CSS
+4. JavaScript
 5. Nodejs
 
 ## WORKFLOW 📃
@@ -58,9 +59,9 @@
 
 <br>
 
-## UI/UX OF OUR WEBSITE:🎨
-<p align="center">
-<img src="./images/front.jpg" width="1000" height="350">
+## Front Page OF OUR WEBSITE:🎨
+<p align="">
+<img src="./images_readme/front.JPG" width="900" height="500">
 </p> 
 
 ## TEAM MEMBERS ✍
