@@ -84,8 +84,8 @@
 <img src="https://img.shields.io/badge/Ankan-blue?style=flat&logo=linkedin&labelColor=blue">
 </a>
 
-<a href="">
-<img src="">
+<a href="https://www.linkedin.com/in/amandeep-singh-93ba64218">
+<img src="https://img.shields.io/badge/Amandeep-blue?style=flat&logo=linkedin&labelColor=blue">
 </a>
 
 
