@@ -80,6 +80,10 @@
 <img src="https://img.shields.io/badge/Rashi-blue?style=flat&logo=linkedin&labelColor=blue">
 </a>
 
+<a href="https://www.linkedin.com/in/ankanslittlemind/">
+<img src="https://img.shields.io/badge/Ankan-blue?style=flat&logo=linkedin&labelColor=blue">
+</a>
+
 <a href="">
 <img src="">
 </a>
