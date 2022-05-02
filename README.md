@@ -72,9 +72,6 @@
 ## Connect with team members
 
 <!-- LinkedIn IDs -->
-<a href="">
-<img src="">
-</a>
 
 <a href="https://www.linkedin.com/in/rashi-shukla-9b2426200/">
 <img src="https://img.shields.io/badge/Rashi-blue?style=flat&logo=linkedin&labelColor=blue">
