@@ -25,7 +25,7 @@
     <li><a href="https://github.com/17rashi/random-password-generator#front-page-of-our-website">First look of our website</a></li>
     <li><a href="https://github.com/17rashi/random-password-generator#team-members-">Team Members</a></li>
     <li><a href="https://github.com/17rashi/random-password-generator#connect-with-team-members">Connect with team members</a></li>
-    <li><a href="https://github.com/17rashi/random-password-generator#steps-to-run-the-project-">How to run the project</a></li>
+    <li><a href="https://github.com/17rashi/random-password-generator#steps-to-run-the-project">How to run the project</a></li>
   </ol>
 </details>
   
