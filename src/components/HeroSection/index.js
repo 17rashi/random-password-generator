@@ -1,7 +1,9 @@
 import React, {useState} from 'react'
-import Video from '../../videos/video.mp4';
-import { HeroContainer, HeroBg, VideoBg, HeroContent, HeroH1, HeroP, HeroBtnWrapper, ArrowForward, ArrowRight } from './HeroElements';
+// import Video from '../../videos/video.mp4';
+import { HeroContainer, HeroBg, HeroContent, HeroH1, HeroP, HeroBtnWrapper, ArrowForward, ArrowRight } from './HeroElements';
 import {Button} from '../ButtonElement';
+import image from '../../images/password.jpeg'
+import generatePasswords from '../../pages/generatePasswords';
 
 const HeroSection = () => {
    const [hover, setHover] = useState(false)
@@ -10,11 +12,11 @@ const HeroSection = () => {
       setHover(!hover);
    };
 
+  
   return (
-
     <HeroContainer>
-        <HeroBg>
-           <VideoBg autoPlay loop muted src={Video} type='video/mp4' />
+        <HeroBg style={{backgroundImage: `url(${image})`, backgroundRepeat: 'no-repeat', height: '650px', width: '1100px', backgroundColor: 'rgba(0,0,0,0.5'}}>
+           {/* <VideoBg autoPlay loop muted src={Video} type='video/mp4' /> */}
         </HeroBg>
 
         <HeroContent>
@@ -23,7 +25,7 @@ const HeroSection = () => {
               Sign in for a new account to save your passwords or click on generate password to get your strong password.
             </HeroP>
             <HeroBtnWrapper>
-               <Button to="signup" onMouseEnter={onHover} onMouseLeave = {onHover} primary='true' dark='true'>
+               <Button onClick={generatePasswords} to="/generatePasswords" onMouseEnter={onHover} onMouseLeave = {onHover} primary='true' dark='true'>
                   Get started {hover ? <ArrowForward />: <ArrowRight />}
                </Button>
             </HeroBtnWrapper>

@@ -2,19 +2,18 @@ import React from 'react'
 import {FaBars} from 'react-icons/fa';
 import {Nav, NavbarContainer, NavLinks, NavMenu, NavLogo, MobileIcon, NavItem, NavBtn, NavBtnLink} from './NavbarElements';
 
-
 const NavBar = ({toggle}) => {
   return (
     <>
       <Nav>
          <NavbarContainer>
-            <NavLogo to="/">Random</NavLogo>
+            <NavLogo to="/">KeyGen</NavLogo>
             <MobileIcon  onClick={toggle}>
                <FaBars />
             </MobileIcon>
             <NavMenu>
                <NavItem>
-                  <NavLinks to="generate">Generate Password</NavLinks>
+                  <NavLinks to="generatePasswords">Generate Password</NavLinks>
                </NavItem>
 
                <NavItem>
@@ -22,7 +21,7 @@ const NavBar = ({toggle}) => {
                </NavItem>
 
                <NavItem>
-                  <NavLinks to="strength">check strength</NavLinks>
+                  <NavLinks to="Strength">check strength</NavLinks>
                </NavItem>
 
                <NavItem>
@@ -31,11 +30,8 @@ const NavBar = ({toggle}) => {
             </NavMenu>
 
             <NavBtn>
-               <NavBtnLink to="/profile">View Profile</NavBtnLink>
+               <NavBtnLink to="signup">View Profile</NavBtnLink>
             </NavBtn>
-
-
-
          </NavbarContainer>
       </Nav>
     </>

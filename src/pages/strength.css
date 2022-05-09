@@ -1,0 +1,48 @@
+.Smain{
+   margin: 30px 230px;
+   width: 1000px;
+   height: 500px;
+   background-color: rgb(255, 255, 255);
+   display: flex;
+   flex-direction: column;
+   padding: 30px;
+   align-items: center;
+   filter: brightness(0.7);
+   overflow: hidden;
+}
+.meter{
+   background-color: white;
+   display: flex;
+   flex-direction: column;
+   width: 800px;
+   align-items: center;
+   padding: 80px 40px;
+   height: 300px;
+   margin-top: 80px;
+}
+
+.passw{
+   padding: 4px 30px;
+   margin-top: 20px;
+   border: 2px solid black;
+}
+/*
+.middleDiv{
+   margin: 90px 140px;
+   width: 1200px;
+   height: 500px;
+   background-color: rgb(255, 255, 255);
+   display: flex;
+   opacity: 0.7;
+   flex-direction: column;
+   padding: 30px;
+}
+
+.middleDiv h1, ol{
+   color: rgb(46, 46, 66);
+}
+
+.middleDiv li{
+   color: #54559e;
+} 
+*/
