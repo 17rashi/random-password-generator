@@ -59,7 +59,7 @@
 
 ## FRONT PAGE OF OUR WEBSITE:🎨
 <p align="">
-<img src="./images_header/front.jpg" width="900" height="500">
+<img src="./images_header/front.JPG" width="900" height="500">
 </p> 
 
 ## TEAM MEMBERS ✍
