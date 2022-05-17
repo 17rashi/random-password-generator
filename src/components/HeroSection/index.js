@@ -25,7 +25,7 @@ const HeroSection = () => {
               Sign in for a new account to save your passwords or click on generate password to get your strong password.
             </HeroP>
             <HeroBtnWrapper>
-               <Button onClick={generatePasswords} to="/generatePasswords" onMouseEnter={onHover} onMouseLeave = {onHover} primary='true' dark='true'>
+               <Button  onClick={generatePasswords} to="/generatePasswords" onMouseEnter={onHover} onMouseLeave = {onHover} primary='true' dark='true'>
                   Get started {hover ? <ArrowForward />: <ArrowRight />}
                </Button>
             </HeroBtnWrapper>

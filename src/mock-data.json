@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "fullName": "Karan",
+    "address": "Facebook",
+    "phoneNumber": "ewex*95wx"
+  },
+  {
+    "id": 2,
+    "fullName": "Jessica",
+    "address": "Skype",
+    "phoneNumber": "edcexe6"
+  },
+  {
+    "id": 3,
+    "fullName": "Frank",
+    "address": "Google",
+    "phoneNumber": "ececece855q"
+  },
+  {
+    "id": 4,
+    "fullName": "Jeremy",
+    "address": "Twitter",
+    "phoneNumber": "tvrv85@dd"
+  },
+  {
+    "id": 5,
+    "fullName": "Aman",
+    "address": "Pubg",
+    "phoneNumber": "as33w@6"
+  }
+]
