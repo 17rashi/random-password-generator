@@ -62,6 +62,7 @@ export const MobileIcon = styled.div`
 `
 
 export const NavMenu = styled.ul`
+   margin-bottom: 0rem;
    display: flex;
    align-items: center;
    list-style: none;

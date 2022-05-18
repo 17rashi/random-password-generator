@@ -27,7 +27,7 @@ const Signup = () => {
 
   return (
     <>
-        <div className="p-4 box">
+        <div  style={{marginTop: '120px'}} className="p-4 box">
           <h2 className="mb-3">
             <center>Sign-up Here</center>
           </h2>

@@ -9,6 +9,7 @@
    align-items: center;
    filter: brightness(0.7);
    overflow: hidden;
+   
 }
 .meter{
    background-color: white;
@@ -22,7 +23,7 @@
 }
 
 .passw{
-   padding: 4px 30px;
+   padding: 12px 30px;
    margin-top: 20px;
    border: 2px solid black;
 }

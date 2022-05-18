@@ -36,7 +36,7 @@ const Login = () => {
 
   return (
     <>
-      <div className="p-4 box">
+      <div style={{marginTop: '120px'}} className="p-4 box">
         <h2 className="mb-3"><center>Login Here</center></h2>
         {error && <Alert variant="danger">{error}</Alert>}
         <Form onSubmit={handleSubmit}>
